@@ -39,7 +39,7 @@ const projectsData = [
     title: "NFT Marketplace",
     description:
       "An NFT marketplace is a platform where users can create, buy, sell, and trade NFTs (digital assets) using blockchain and cryptocurrencies. It ensures ownership, security, and transparency through smart contracts.",
-    // url: "https://armostore.ca",
+    url: "http://3.65.206.192:3000/en",
     category: "Frontend",
   },
   // {
