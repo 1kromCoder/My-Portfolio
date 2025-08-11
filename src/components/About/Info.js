@@ -10,13 +10,13 @@ const Info = () => {
         <i className="bx bx-briefcase-alt" />
 
         <h3 className="about__title">Completed</h3>
-        <p className="about__subtitle">7+ Projects</p>
+        <p className="about__subtitle">9+ Projects</p>
       </div>
       <div className="about__box">
         <i className="bx bx-smile" />
 
         <h3 className="about__title">Happy</h3>
-        <p className="about__subtitle">Clients 1+</p>
+        <p className="about__subtitle">Clients 10+</p>
       </div>
       <div className="about__box">
         <svg

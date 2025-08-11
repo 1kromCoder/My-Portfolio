@@ -7,7 +7,7 @@ const projectsData = [
     title: "ONLINE EDUCATIONAL CENTER SEARCH PLATFORM",
     description:
       "Implemented a complete authentication and authorization system, including route protection and role-based access.Applied security best practices to ensure user data protection.Designed scalable backend logic for managing users and educational center resources",
-    // url: "https://buyno.vercel.app",
+    url: "https://github.com/Abror-150/exam",
     category: "Backend",
   },
   {
@@ -15,7 +15,7 @@ const projectsData = [
     title: "ONLINE SHOP MARKETPLACE",
     description:
       " Developed core modules such as product management, user system, and shopping logic.Implemented CRUD operations, filtering, sorting, and pagination. Wrote unit and integration tests to ensure API reliability",
-    // url: "https://kisanbazar.vercel.app",
+    url: "https://github.com/Abror-150/Online-shop",
     category: "Backend",
   },
   {
@@ -23,7 +23,7 @@ const projectsData = [
     title: "MY WORKERS",
     description:
       "Built a real-time worker assignment and task tracking module.Enabled admins to assign tasks based on availability and monitor progress.Developed RESTful APIs and role-based access dashboards",
-    // url: "https://gher.vercel.app",
+    url: "https://github.com/1kromCoder/MyWorkers",
     category: "Backend",
   },
   {
@@ -31,7 +31,7 @@ const projectsData = [
     title: "Najot Education Training Center Clone",
     description:
       "Implemented a complete authentication and authorization system, including route protection and role-based access.Applied security best practices to ensure user data protection.Designed scalable backend logic for managing users and educational center resources",
-    // url: "https://armostore.ca",
+    url: "https://github.com/1kromCoder/ERP-Clone",
     category: "Frontend",
   },
   {
@@ -39,7 +39,40 @@ const projectsData = [
     title: "NFT Marketplace",
     description:
       "An NFT marketplace is a platform where users can create, buy, sell, and trade NFTs (digital assets) using blockchain and cryptocurrencies. It ensures ownership, security, and transparency through smart contracts.",
-    url: "http://3.65.206.192:3000/en",
+    // url: "http://3.65.206.192:3000/en",
+    url: "https://github.com/1kromCoder/NFT-Marketplace",
+    category: "Frontend",
+  },
+  {
+    id: 6,
+    title: "Intex-Market.Uz",
+    description:
+      "Intex Market is an online store that sells products from the Intex brand.Main functions:) online.Customers can order products directly from the website. Processes payments and delivers the products to the customer’s home. In short — it’s an online platform for selling and delivering pools and their accessories.",
+    url: "https://github.com/1kromCoder/Intex-Front-Exam-UI",
+    category: "Frontend",
+  },
+  {
+    id: 7,
+    title: "NFT Marketplace",
+    description:
+      "An NFT marketplace is a platform where users can create, buy, sell, and trade NFTs (digital assets) using blockchain and cryptocurrencies. It ensures ownership, security, and transparency through smart contracts.",
+    url: "https://github.com/1kromCoder/NFT-Marketplace-Backend",
+    category: "Backend",
+  },
+  {
+    id: 8,
+    title: "Nasiya For Shops",
+    description:
+      "Nasiya For Shops is a service that allows stores or entrepreneurs to purchase products on an installment or credit-like basis. Main functions: Enables stores to get products immediately and pay for them later. Helps entrepreneurs continue sales even if they lack working capital. Sets payment terms and schedules so payments can be made in parts over time. In short — a financial solution that lets stores take products now and pay later.",
+    url: "https://github.com/1kromCoder/nasiya-top-shop",
+    category: "Backend",
+  },
+  {
+    id: 9,
+    title: "Nasiya For Shops",
+    description:
+      "Nasiya For Shops is a service that allows stores or entrepreneurs to purchase products on an installment or credit-like basis. Main functions: Enables stores to get products immediately and pay for them later. Helps entrepreneurs continue sales even if they lack working capital. Sets payment terms and schedules so payments can be made in parts over time. In short — a financial solution that lets stores take products now and pay later.",
+    url: "https://github.com/1kromCoder/nasiya-top-shop-front",
     category: "Frontend",
   },
   // {
