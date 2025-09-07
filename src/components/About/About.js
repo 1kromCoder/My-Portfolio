@@ -13,7 +13,7 @@ const About = () => {
         <div className="about__data">
           <Info />
           <p className="about__description">
-            Full-Stack Developer with +2 years of experience in building secure and scalable web applications using Node.js, NestJS, React.js, and Next.js. Proficient in both backend and frontend development, with strong skills in RESTful APIs, PostgreSQL, MongoDB, and responsive UI design. Experienced in authentication, role-based access, and microservice architecture. Passionate about writing clean, maintainable code and continuously learning new technologies.
+            Full-Stack Developer with 1,5+ years of experience in building secure and scalable web applications using Node.js, NestJS, React.js, and Next.js. Proficient in both backend and frontend development, with strong skills in RESTful APIs, PostgreSQL, MongoDB, and responsive UI design. Experienced in authentication, role-based access, and microservice architecture. Passionate about writing clean, maintainable code and continuously learning new technologies.
             <br />
             <br />I care about clean design, great UX, and building products
             that solve real problems and scale well.

@@ -4,7 +4,7 @@ const Info = () => {
       <div className="about__box">
         <i className="bx bx-award" />
         <h3 className="about__title">Experience</h3>
-        <p className="about__subtitle">+2 Year</p>
+        <p className="about__subtitle">1,5+ Year</p>
       </div>
       <div className="about__box">
         <i className="bx bx-briefcase-alt" />
